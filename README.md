@@ -21,8 +21,6 @@ npm install
 ```
 # Запуск
 Запустить скрейпер
-bash
-Copy code
 ```npm start
 ```
 # Настройка
