@@ -9,13 +9,9 @@ Node.js (версия 14.0 или выше)
 NPM (версия 7.0 или выше)
 Установка
 # 1. Клонировать репозиторий
-bash
-Copy code
 ```git clone https://github.com/Janexxx1337/linkidinJob.git
 ```
 # 2. Установить зависимости
-bash
-Copy code
 ```
 npm install
 ```
