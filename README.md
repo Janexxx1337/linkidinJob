@@ -16,12 +16,12 @@ Copy code
 # 2. Установить зависимости
 bash
 Copy code
-```cd linkidinJob
+```
 npm install
 ```
 # Запуск
-Запустить скрейпер
-npm start
+```npm start
+```
 
 # Настройка
 В файле config.js можно изменить следующие параметры:
